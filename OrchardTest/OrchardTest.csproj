@@ -5,4 +5,8 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="OrchardCore.Application.Cms.Core.Targets" Version="1.0.0-rc1-10004" />
+  </ItemGroup>
+
 </Project>
